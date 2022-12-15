@@ -224,3 +224,17 @@ Refering Segmentation
   - ReferIt
 
 
+### PhDs
+
+- [Arka Sadhu](https://theshadow29.github.io/)
+- [Zhengyuan Yang](https://zyang-ur.github.io/) (one-stage)
+  - Thesis: https://www.proquest.com/docview/2572612109
+- [Jiajun Deng](https://scholar.google.com/citations?user=FAAHjxsAAAAJ&hl=zh-CN) (Weakly)
+- [Daqing Liu](https://scholar.google.com/citations?hl=en&user=TbBfOVEAAAAJ&view_op=list_works&sortby=pubdate) (Struture-language)
+- [Haojun Jiang](https://github.com/jianghaojun) (label-efficient)
+- [Liwei Wang](https://lwwangcse.github.io/) (3D grounding)
+- [Sibei yang](https://sibeiyang.github.io/) (refering expression)
+- [Licheng Yu](https://lichengunc.github.io/) (before:refering expression, now:pretrain,generations)
+
+
+
